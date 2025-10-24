@@ -1,14 +1,18 @@
-## Responsi 1 Mobile - West Ham United FC App
+# Responsi 1 Mobile - West Ham United FC App
 
 Aplikasi Android sederhana yang menampilkan informasi tentang klub sepak bola West Ham United FC, menggunakan data dari football-data.org API.
 
-# Identitas Mahasiswa
-Nama: Firyal Aufa Fahrudin\
+## Identitas Mahasiswa
+Nama: Firyal Aufa Fahrudin
+
 NIM: H1D023018
+
 Shift Baru: Shift F
+
 Shift Asal: Shift B
 
-# Demo Aplikasi
+## Demo Aplikasi
+Berikut ada;ah demo dari West Ham United FC App
 ![Demo Aplikasi West Ham United FC](Demo-WestHamUFC.gif)
 
 ## Penjelasan Alur Data Aplikasi
