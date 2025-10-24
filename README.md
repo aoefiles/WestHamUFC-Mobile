@@ -12,7 +12,8 @@ Shift Baru: Shift F
 Shift Asal: Shift B
 
 ## Demo Aplikasi
-Berikut ada;ah demo dari West Ham United FC App
+Berikut adalah demo dari West Ham United FC App
+
 ![Demo Aplikasi West Ham United FC](Demo-WestHamUFC.gif)
 
 ## Penjelasan Alur Data Aplikasi
