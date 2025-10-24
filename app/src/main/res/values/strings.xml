@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Responsi 1 Mobile H1D023018</string>
+    <string name="club_name">West Ham United FC</string>
+
+    <!-- Halaman Utama -->
+    <string name="club_description">
+    West Ham United Football Club is an English professional football club based in Stratford, East London that competes in the Premier League, the top tier of English football. The club plays at the London Stadium, having moved from their former home, the Boleyn Ground, in 2016. Founded in 1895 as Thames Ironworks FC, the team is known by the nickname "The Hammers" or "The Irons" due to its origins in the local ironworks industry. West Ham has a proud history of developing talented English players and is recognized for its contribution to the national team, especially during England’s 1966 World Cup victory. The club’s colors are claret and blue, and its passionate supporters are known for their loyalty and the famous anthem “I’m Forever Blowing Bubbles.”
+    </string>
+
+    <string name="menu_history">Club History</string>
+    <string name="menu_coach">Head Coach</string>
+    <string name="menu_squad">Team Squad</string>
+
+    <!-- Halaman Sejarah -->
+    <string name="history_title">West Ham United\'s History</string>
+    <string name="history_long_text">
+        Founded in 1895 as Thames Ironworks, the club reformed in 1900 as West Ham United. They moved to the Boleyn Ground in 1904, which remained their home ground for more than a century.\n\nThe club initially competed in the Southern League and Western League before joining the Football League in 1919. They were promoted to the top flight in 1923, when they also reached the first-ever FA Cup Final at Wembley.\n\nWest Ham have been winners of the FA Cup three times (1964, 1975, 1980) and the European Cup Winners\' Cup once in 1965. Their highest-ever league finish was third place in the 1985–86 First Division. The club\'s "Academy of Football" is renowned for producing talented young players, famously including 1966 World Cup winners Bobby Moore, Geoff Hurst, and Martin Peters.
+    </string>
+
+    <!-- Halaman Skuad -->
+    <string name="player_name">Player Name</string>
+    <string name="player_nationality">Nationality</string>
+    <string name="player_position">Position</string>
+    <string name="player_dob">Date of Birth</string>
+
+</resources>
+

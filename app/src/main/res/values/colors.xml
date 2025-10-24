@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="pink_card">#FCE4EC</color>
+    <color name="pink_text">#C2185B</color>
+    <color name="grey_background">#F6F6F6</color>
+    <color name="dark_text">#333333</color>
+
+    <!-- warna kategori posisi pemain-->
+    <color name="pos_goalkeeper">#FFEB3B</color>
+    <color name="pos_defender">#2196F3</color>
+    <color name="pos_midfielder">#4CAF50</color>
+    <color name="pos_forward">#F44336</color>
+</resources>
+
